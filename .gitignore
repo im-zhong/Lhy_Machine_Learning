@@ -2,3 +2,5 @@
 *.zip
 runs/
 models/
+*.ckpt
+libriphone/
